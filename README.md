@@ -45,6 +45,7 @@ A collection of awesome email newsletter tools, platforms, media, and software.
 - [GlockApps](https://glockapps.com/) - tool to diagnose email deliverability problems
 - [GMass](https://www.gmass.co/) - platform used to increase open rates and send bulk emails
 - [Heybounce](https://www.heybounce.io) - Email verification service that checks if an email exists to reduce bounce rates.
+- [WarmupInbox](https://www.warmupinbox.com) - Warmup tool to improve deliverability by reducing your spam rate
 
 ## Discoverability
 
